@@ -1,0 +1,1 @@
+-- paste .exe file into shell:startup folder and restart the PC
